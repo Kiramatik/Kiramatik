@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Backend+Developer;Java+%7C+Ruby+%7C+WEB;Small+QOL+programms)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anta&pause=1000&color=6A2CB3DC&width=435&lines=Backend+Developer;Java+%7C+Ruby+%7C+WEB;Small+QOL+programms)
 
 <!--
 **Kiramatik/Kiramatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
